@@ -22,8 +22,8 @@ Frist make sure you have rails installed.
 ### Project
 
 1. The projects custom controllers are:
-   + goodbye_controller.rb
-   + welcome_controller.rb
+   + `goodbye_controller.rb` at http://localhost:3000/goodbye
+   + `welcome_controller.rb` at http://localhost:3000
 
 
 2. The typeset used in the project is `utf-8`
