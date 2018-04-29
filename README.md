@@ -1,28 +1,42 @@
-<<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The following readme contains instructions what the project contains and how to start it
 
-Things you may want to cover:
+Frist make sure you have rails installed.
 
-* Ruby version
+### Versions
 
-* System dependencies
+1. Check your Ruby version with: `$ ruby -v` 
 
-* Configuration
+   The used Ruby version in the project is: 
 
-* Database creation
+   > ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin17]
 
-* Database initialization
 
-* How to run the test suite
+2. Check your Rails version with:`$ rails -v` 
 
-* Services (job queues, cache servers, search engines, etc.)
+   The used Rails version in the project is: 
 
-* Deployment instructions
+   > Rails 5.1.6
 
-* ...
-=======
-# RubyTest
->>>>>>> b348bf74dbb3a5a2f1e0560e404ed376585623fa
+### Project
+
+1. The projects custom controllers are:
+   + goodbye_controller.rb
+   + welcome_controller.rb
+
+
+2. The typeset used in the project is `utf-8`
+
+   It was set in `app/views/layouts/application.html.erb`
+
+3. The root is `root 'welcome#index'`
+
+4. There is currently no deployment infrastructure in place
+
+### Start the Project
+
+1. Type `rails server` in your console
+2. open your favorite browser at http://localhost:3000
+3. The project should be displayed
+
