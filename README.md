@@ -36,7 +36,8 @@ Frist make sure you have rails installed.
 
 ### Start the Project
 
-1. Type `rails server` in your console
+1. Type `bin/rails server` in your console to start the test server
 2. open your favorite browser at http://localhost:3000
 3. The project should be displayed
+
 
