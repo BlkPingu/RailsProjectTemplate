@@ -41,3 +41,8 @@ Frist make sure you have rails installed.
 3. The project should be displayed
 
 
+###  Further Souces
+
+How to get started with rails: http://guides.rubyonrails.org/getting_started.html
+
+Routing with rails: http://guides.rubyonrails.org/routing.html
