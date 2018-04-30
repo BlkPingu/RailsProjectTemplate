@@ -36,9 +36,11 @@ Frist make sure you have rails installed.
 
 ### Start the Project
 
-1. Type `bin/rails server` in your console to start the test server
-2. open your favorite browser at http://localhost:3000
-3. The project should be displayed
+1. `gem pristine --all` to prepare the project
+2. run `gem install bundler` and `bundler install` 
+3. Type `bin/rails server` in your console to start the test server
+4. open your favorite browser at http://localhost:3000
+5. The project should be displayed
 
 
 ###  Further Souces
